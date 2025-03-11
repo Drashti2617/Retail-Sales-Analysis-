@@ -2,7 +2,7 @@
 
 Project Overview
 
-Project Title: Retail Sales AnalysisSkill Level: BeginnerDatabase Name: p1_retail_db
+Project Title: Retail Sales Analysis:Database Name: sql_project_p2
 
 This project is designed to help beginners develop their SQL skills by working with retail sales data. Through this project, you will learn how to set up a database, clean data, conduct exploratory data analysis (EDA), and extract business insights using SQL queries. The project is ideal for those starting out in data analytics and looking to gain hands-on experience with SQL.
 
@@ -24,7 +24,7 @@ The first step is to create a database named p1_retail_db and define the structu
 
 SQL Commands to Create the Database and Table:
 
-CREATE DATABASE p1_retail_db;
+CREATE DATABASE sql_project_p2;
 
 CREATE TABLE retail_sales (
     transactions_id INT PRIMARY KEY,
