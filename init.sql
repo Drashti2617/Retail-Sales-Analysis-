@@ -1,4 +1,4 @@
--- SQL Retail Sales Analysis - P1
+-- SQL Retail Sales Analysis --
 USE sql_project_p2;
 DROP TABLE IF EXISTS retail_sales;
 -- Create Table
